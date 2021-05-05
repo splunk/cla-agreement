@@ -7,3 +7,7 @@ After adding the workflow to the main branch. Enable branch protection for main,
 
 Add a repository secret PAT_TOKEN with a github PAT for a service account to your repo.
 Add the service account to cla-agreement-svc
+
+
+This CLA/COC tracker users https://github.com/marketplace/actions/cla-assistant-lite
+Thank you SAP for your support of the OSS/Shared source Community
