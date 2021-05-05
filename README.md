@@ -6,7 +6,7 @@ Splunk developers may opt into this solution by adding `workflows/agreements.yam
 After adding the workflow to the main branch. Enable branch protection for main,develop and any other merge targets with the requirement of passing the agreements status check
 
 Add a repository secret PAT_TOKEN with a github PAT for a service account to your repo.
-Add the service account to cla-agreement-svc
+Add the service account to cla-agreement-svc team
 
 
 This CLA/COC tracker users https://github.com/marketplace/actions/cla-assistant-lite
