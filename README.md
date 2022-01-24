@@ -6,7 +6,7 @@
 The “CLA” lite tool uses Github to track users who have agreed to the CLA for /splunk projects. Developers can rely on CI checks to determine if a PR from an outside source can be merged without manually consulting third-party systems like SFDC, which is error prone.
 When properly used this fully automates the requirements of our contribution program.
 
-> **Note:** Splunk employees should read the [internal version of this document](https://go.splunk.com/!create#:~:text=http%3A//go/claagreementtrackerdocs) instead.
+> **Note:** Splunk employees should read the [internal version of this document](http://go/claagreementtrackerdocs) instead.
 
 ## Intended Users
 
