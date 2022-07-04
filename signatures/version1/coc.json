@@ -687,6 +687,14 @@
       "created_at": "2022-07-01T15:43:34Z",
       "repoId": 194185530,
       "pullRequestNo": 1737
+    },
+    {
+      "name": "mateuszpierzchala-splunk",
+      "id": 106949453,
+      "comment_id": 1173528542,
+      "created_at": "2022-07-04T08:40:08Z",
+      "repoId": 194185530,
+      "pullRequestNo": 1736
     }
   ]
 }
