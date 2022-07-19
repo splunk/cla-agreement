@@ -759,6 +759,14 @@
       "created_at": "2022-07-13T12:40:23Z",
       "repoId": 334956698,
       "pullRequestNo": 494
+    },
+    {
+      "name": "pwickham",
+      "id": 73998463,
+      "comment_id": 1188709675,
+      "created_at": "2022-07-19T07:41:06Z",
+      "repoId": 194185530,
+      "pullRequestNo": 1755
     }
   ]
 }
